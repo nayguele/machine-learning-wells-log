@@ -1,1 +1,5 @@
-print('hello and welcome')
+class Hello:
+  def__init__(self,name)
+
+def greet(name):
+print('hello and welcome', {name}, format(name=name)
