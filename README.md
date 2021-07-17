@@ -1,4 +1,4 @@
-# Classificação de Litofácies com o auxílio de algoritmo detector de camadas
+# Classificação de litofácies com o auxílio de algoritmo detector de camadas
 
 #### Aluno:[Nayguel de Castro Costa](https://github.com/nayguele)
 #### Orientador: [Pedro Diaz](https://github.com/xxxxxxxx).
