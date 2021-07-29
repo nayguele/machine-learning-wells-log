@@ -25,7 +25,7 @@ RF perfis substituídos | **0.84** | **0.84** | **0.84** | **0.84** | **0.95** |
 RF atributos acrescentados | 0.82 | 0.82 | 0.82 | 0.82 | **0.95** | 0.78
 t-SNE + KNN (artigo) | 0.79 | 0.79 | 0.79 | - | - | -
 
-Concluímos que do ponto de vista de diferentes métricas (Acurácia, F-1 Score e MCC) vale a pena incluir esse passo de pré-processamento no fluxo, pois em todos os casos conseguimos alcançar resultados melhores na classificação das litofácies em nossa base. Em especial a utilização dessa metodologia com o Random Forest alcançou uma precisão de 84%, bem superios aos resultados da aplicação direta de algoritmos conhecidos de machine learning ou até mesmo técnicas mais sofisticadas como as dos artigos mencionados. O custo computacional da adição desses passos é baixíssimo, o que incentiva ainda mais sua utilização.
+Concluímos que do ponto de vista de diferentes métricas (Acurácia, F-1 Score e MCC) vale a pena incluir esse passo de pré-processamento no fluxo, pois em todos os casos conseguimos alcançar resultados melhores na classificação das litofácies em nossa base. Em especial a utilização dessa metodologia com o Random Forest alcançou uma precisão de 84%, bem superior aos resultados da aplicação direta de algoritmos conhecidos de machine learning ou até mesmo técnicas mais sofisticadas como as dos artigos mencionados. O custo computacional da adição desses passos é baixíssimo, o que incentiva ainda mais sua utilização.
 
 
 ### Abstract 
